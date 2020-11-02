@@ -3,25 +3,24 @@
 
 ### Выполнено: 
 :white_check_mark: Макет разбит на медиа файлы   
-:white_check_mark: Реализован первый, второй и третий блок сайта   
+:white_check_mark: Реализованы все блоки сайта   
 :white_check_mark: Оформлен репозитарий _(А зачем?)_   
 :white_check_mark: Забить куй   
 
 ### Не выполнено:
-:negative_squared_cross_mark: 5-8 блок сайта   
-:negative_squared_cross_mark: Вернуться к работе   
+:negative_squared_cross_mark: Адаптивная верстка   
 
 ### В планах
 :black_square_button: Подкрутить JavaScript ![https://img.shields.io/badge/JavaScript-%20-orange](https://img.shields.io/badge/JavaScript-%20-orange)   
 :black_square_button: Апнуть 3к pp в osu!
 ### Прогресс
-![https://progress-bar.dev/10/](https://progress-bar.dev/50/)
+![https://progress-bar.dev/10/](https://progress-bar.dev/99/)
 
 <pre>
 Проверка работоспособности сайта: <kbd>Alt</kbd>+<kbd>F4</kbd>
 </pre> 
 
-Авторы сия **чуда**: **[Биба](https://vk.com/foxy163_rus) и [Боба](https://vk.com/id157308850)**
+Авторы сия **чуда**: **[Биба](https://vk.com/foxy163_rus) (на нем все костыли сайта) и [Боба](https://vk.com/id157308850) (практически ничего не делал :blush:)**
 
 ![Alt-текст](https://avatars0.githubusercontent.com/u/62958994?s=460&u=772668140cd1fae102c9e010e94c97880e6c431d&v=4 "Фокси")
 ![Alt-текст](https://avatars3.githubusercontent.com/u/65364319?s=460&u=9491d8dae97deb6635a1edd779a47d377ebe1858&v=4 "Гаврик")
